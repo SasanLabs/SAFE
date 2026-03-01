@@ -2,11 +2,9 @@
 
 ------------------------------------------------------------------------
 
-## 📌 Featured Thumbnail
 
-![Password Security Do's &
-Don'ts](a_digital_infographic_titled_password_security_d.png)
 
+![Password Security Do's & Don'ts](../images/password_security_blog_do&dont_image1.png)
 ------------------------------------------------------------------------
 
 ## The Password Illusion
