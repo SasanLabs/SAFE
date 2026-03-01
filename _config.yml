@@ -1,0 +1,6 @@
+title: SAFE
+description: Security Awareness For Everyone
+
+collections:
+  blogs:
+    output: true
