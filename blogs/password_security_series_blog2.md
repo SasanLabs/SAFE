@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Password Security Series Blog 2
-parent: blogs
+parent: Blogs
 nav_order: 2
 ---
 
