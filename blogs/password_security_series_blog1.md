@@ -1,6 +1,8 @@
 ---
-layout: page
-title: "Password Security Series Blog 1"
+layout: default
+title: Password Security Series Blog 1
+parent: Blogs
+nav_order: 1
 ---
 # Your Password Is Not as Strong as You Think --- And Hackers Know It
 
