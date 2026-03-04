@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Password Security Series Blog 1
-parent: Blogs
+parent: blogs
 nav_order: 1
 ---
 # Your Password Is Not as Strong as You Think --- And Hackers Know It
