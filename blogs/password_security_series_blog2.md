@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Password Security Series Blog 1"
+title: "Password Security Series Blog 2"
 ---
 
 # One Password, Multiple Accounts: A Digital Disaster Waiting to Happen
