@@ -1,9 +1,19 @@
 title: SAFE
 description: Security awareness for everyone
 
-theme: minima
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: dark
 
 collections:
   blogs:
     output: true
-    permalink: /blogs/:name/
+    permalink: /blogs/:path/
+
+just_the_docs:
+  collections:
+    blogs:
+      name: Blogs
