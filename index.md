@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: default
 title: SAFE
+nav_order: 1
 ---
 # 🛡️ SAFE — Security Awareness For Everyone
 
@@ -111,13 +112,6 @@ You can help by:
 The focus should always remain:
 
 > Simple. Practical. Understandable.
-
----
-# Blogs
-
-{% for blog in site.blogs %}
-- [{{ blog.title }}]({{ blog.url }})
-{% endfor %}
 
 ## ⚠️ Disclaimer
 
