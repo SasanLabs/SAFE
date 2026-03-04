@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Password Security Series Blog 1"
+---
+
 # One Password, Multiple Accounts: A Digital Disaster Waiting to Happen
 ![one password, multiple accounts](../images/password_security_blog_one_password_multiple_account_image2.png)
 Most people don't get hacked because hackers are genius programmers.
