@@ -1,6 +1,4 @@
 title: SAFE
-description: Security Awareness For Everyone
-
-collections:
-  blogs:
-    output: true
+description: Security awareness for everyone
+theme: minima
+markdown: kramdown
