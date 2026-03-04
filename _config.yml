@@ -12,8 +12,3 @@ collections:
   blogs:
     output: true
     permalink: /blogs/:path/
-
-just_the_docs:
-  collections:
-    blogs:
-      name: Blogs
