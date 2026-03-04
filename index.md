@@ -1,3 +1,7 @@
+---
+layout: home
+title: SAFE
+---
 # 🛡️ SAFE — Security Awareness For Everyone
 
 **SAFE** is an initiative to make **security knowledge accessible to everyone**, not just developers or security professionals.
@@ -109,6 +113,11 @@ The focus should always remain:
 > Simple. Practical. Understandable.
 
 ---
+# Blogs
+
+{% for blog in site.blogs %}
+- [{{ blog.title }}]({{ blog.url }})
+{% endfor %}
 
 ## ⚠️ Disclaimer
 
