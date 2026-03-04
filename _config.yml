@@ -1,4 +1,9 @@
 title: SAFE
 description: Security awareness for everyone
+
 theme: minima
-markdown: kramdown
+
+collections:
+  blogs:
+    output: true
+    permalink: /blogs/:name/
