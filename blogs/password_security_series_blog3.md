@@ -10,7 +10,7 @@ nav_order: 3
 
 
 
-![Cybersecurity tips for stronger protection](../image/password_security_blog_3image.png)
+![Cybersecurity tips for stronger protection](../images/password_security_blog_3image.png)
 ------------------------------------------------------------------------
 The LinkedIn breach taught us a hard lesson: one weak or reused password can put your entire digital life at risk. Many of us think we’re safe because our passwords include a capital letter, a number, or a symbol. But hackers don’t need to guess these patterns — they already know them.
 
