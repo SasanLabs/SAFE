@@ -1,6 +1,17 @@
-
+---
+layout: default
+title: Password Security Series 3
+parent: Blogs
+nav_order: 3
+---
 # How to Create Strong Passwords You’ll Actually Remember
 
+------------------------------------------------------------------------
+
+
+
+![Cybersecurity tips for stronger protection](../images/password_security_blog_do&dont_image1.png)
+------------------------------------------------------------------------
 The LinkedIn breach taught us a hard lesson: one weak or reused password can put your entire digital life at risk. Many of us think we’re safe because our passwords include a capital letter, a number, or a symbol. But hackers don’t need to guess these patterns — they already know them.
 
 So, how can you protect yourself? Let’s break it down in simple, practical steps.
