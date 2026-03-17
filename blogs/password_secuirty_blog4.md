@@ -5,7 +5,12 @@ parent: Blogs
 nav_order: 4
 ---
 # 🚨 OTP Scams Explained: How People Lose Money in Seconds
+--------------------------------------------------------------------
 
+
+
+
+![OTP tips for stronger protection](../image/password_security_blog4_image.png)
 It usually starts with a simple message or call.
 
 "Sir, please share the OTP to complete your verification."
