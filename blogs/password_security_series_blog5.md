@@ -1,11 +1,19 @@
+---
+layout: default
+title: Password Security Series 5
+parent: Blogs
+nav_order: 5
+---
+
+
 # Your Password is Strong... But You're Still Not Safe
 
 ## 🧠 You Did Everything Right... Right?
 
 You:
 
--   Created a long password ✅\
--   Added numbers and symbols ✅\
+-   Created a long password ✅
+-   Added numbers and symbols ✅
 -   Didn't share it with anyone ✅
 
 So obviously... you're safe?
@@ -16,7 +24,7 @@ So obviously... you're safe?
 
 ## ⚠️ But Here's the Truth...
 
-Even if your password is perfect...\
+Even if your password is perfect...
 you can still get hacked.
 
 Sounds unfair?
@@ -31,11 +39,11 @@ You locked your front door with the best lock in the world 🔐
 
 ...but...
 
-👉 The window is open\
-👉 The back door isn't locked\
+👉 The window is open
+👉 The back door isn't locked
 👉 Anyone can still walk in
 
-Your password = the front door\
+Your password = the front door
 The app/website = the whole house
 
 ------------------------------------------------------------------------
@@ -52,7 +60,7 @@ You get a message:
 
 👉 "Your account will be blocked. Login now."
 
-You click.\
+You click.
 You enter your password.
 
 But...
@@ -68,11 +76,11 @@ But...
 
 Some apps/websites:
 
--   Don't protect your data properly\
--   Have hidden flaws\
+-   Don't protect your data properly
+-   Have hidden flaws
 -   Can be easily broken into
 
-👉 Hackers don't need YOUR password\
+👉 Hackers don't need YOUR password
 👉 They attack the WEBSITE instead
 
 ------------------------------------------------------------------------
@@ -83,8 +91,8 @@ Even big companies get hacked.
 
 Your data can be:
 
--   Leaked\
--   Sold\
+-   Leaked
+-   Sold
 -   Shared online
 
 👉 And you won't even know
@@ -97,11 +105,11 @@ No hacking needed.
 
 Just tricks like:
 
--   Fake calls\
--   Fake emails\
+-   Fake calls
+-   Fake emails
 -   Fake offers
 
-👉 "I'm from customer care..."\
+👉 "I'm from customer care..."
 👉 "Verify your OTP..."
 
 And boom... access gone.
@@ -114,8 +122,8 @@ Being safe online is not just about passwords.
 
 It's about:
 
--   Where you click\
--   What you trust\
+-   Where you click
+-   What you trust
 -   How apps protect your data
 
 ------------------------------------------------------------------------
@@ -124,10 +132,10 @@ It's about:
 
 Simple things that actually work:
 
-✔ Never click random links\
-✔ Always check website name carefully\
-✔ Don't share OTP with anyone\
-✔ Use 2-factor authentication\
+✔ Never click random links
+✔ Always check website name carefully
+✔ Don't share OTP with anyone
+✔ Use 2-factor authentication
 ✔ Avoid logging in on unknown devices
 
 ------------------------------------------------------------------------
@@ -140,5 +148,5 @@ Simple things that actually work:
 
 ## 🎯 Final Line
 
-You didn't do anything wrong.\
+You didn't do anything wrong.
 You just trusted the system too much.
