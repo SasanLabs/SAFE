@@ -7,6 +7,15 @@ nav_order: 5
 
 
 # Your Password is Strong... But You're Still Not Safe
+------------------------------------------------------------------------
+
+
+
+![Your Password is Strong... But You're Still Not Safe](../images/Yourpasswordisstrongbutnotsafe.png)
+------------------------------------------------------------------------
+
+
+
 
 ## 🧠 You Did Everything Right... Right?
 
